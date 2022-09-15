@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": "395a490d",
+            "name": "Michael",
+            "last_name": "Jordan",
+            "birth_day": "02.12.1973",
+            "age": 48
+        }
+    ],
+    "counter": 1
+}
